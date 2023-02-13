@@ -1,3 +1,6 @@
+## FORKED
+For python 3.11 support
+
 ==============================
 Redis cache backend for Django
 ==============================
